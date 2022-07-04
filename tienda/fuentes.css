@@ -1,0 +1,20 @@
+@font-face {
+    font-family:hammerscout;
+    src:url(fuentes/hammerscout.ttf);
+}
+
+@font-face {
+    font-family: apple ;
+    src: url(fuentes/SFPRODISPLAYREGULAR.OTF);
+
+}
+
+@font-face{
+    font-family:Bebas Neue;
+src:url(fuentes/BebasNeue-Regular.ttf)
+}
+
+@font-face{
+    font-family: Secular;
+    src:url(fuentes/SecularOne-Regular.ttf)
+}

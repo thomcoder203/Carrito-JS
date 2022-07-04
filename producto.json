@@ -1,0 +1,44 @@
+[
+    {
+      "precio": 12000,
+      "id": 1,
+      "title": "TECLADO",
+      "description": "Teclado mecanico HyperX RGB",
+      "thumbnailUrl": "img/1019-producto-teclado-hyperx-alloy-fps-rgb-kailh-silver-1-1634.jpg"
+    },
+    {
+      "precio": 15000,
+      "id": 2,
+      "title": "MOUSE",
+      "description": "Mouse Logitech Superlight 15000 DPI Inalambrico",
+      "thumbnailUrl": "img/MOU151.jpg"
+    },
+    {
+      "precio": 21000,
+      "id": 3,
+      "title": "MICROFONO BLUE YETI",
+      "description": "Microfono Blue Yeti muy buen sonido",
+      "thumbnailUrl": "img/988-000100-1.png"
+    },
+    {
+      "precio": 230000,
+      "id": 4,
+      "title": "MONITOR GAMING",
+      "description": "Monitor Benq Zowie 240hz",
+      "thumbnailUrl": "img/BenQ-Zowie-XL2546_Foto0g.jpg"
+    },
+    {
+      "precio": 350000,
+      "id": 5,
+      "title": "TARJETA GRAFICA",
+      "description": "Tarjeta Grafica MSI RTX 3090 24gb VRAM",
+      "thumbnailUrl": "img/gpu-geforce-rtx-3090-msi-ventus-3x.png"
+    },
+    {
+      "precio": 23000,
+      "id": 6,
+      "title": "MICROFONO HYPERX",
+      "description": "Cuenta con RGB y muy buen sonido",
+      "thumbnailUrl": "img/hx-product-quadcast-s-1-zm-lg.jpg"
+    }
+]

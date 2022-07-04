@@ -1,0 +1,33 @@
+
+/*Tomas Carlos Castiñeira*/
+
+/*--------TITULO PRINCIPAL PAGINA--------*/
+#storetitle{
+  text-align: center;
+  padding: 8px;
+}
+
+/*--------TITULO TIENDA--------*/
+#tittienda{
+  text-align: center;
+  font-size: 30px;
+  padding: 15px;
+}
+/*--------CARRITO--------*/
+#carrtit{
+  text-align: center;
+  font-size: 30px;
+  padding: 15px;
+}
+
+/*--------IMAGENES--------*/
+img{
+  width: 150px;
+  height: 150px;
+}
+
+
+
+
+
+
