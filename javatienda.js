@@ -138,4 +138,3 @@ const btnSumRes = e => {
     }
     e.stopPropagation()
 }
-
