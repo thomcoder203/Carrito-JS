@@ -26,6 +26,14 @@ img{
   height: 150px;
 }
 
+.cart{
+  display:flex;
+  flex-direction: row;
+  margin-left: 96%;
+  background-color: lightgray;
+  border-radius: 5px;
+}
+
 
 
 
