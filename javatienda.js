@@ -3,6 +3,7 @@
 const cards = document.getElementById('cards')
 const items = document.getElementById('items')
 const footer = document.getElementById('footer')
+const productCount = document.getElementById('productCount')
 const templateCard = document.getElementById('template-card').content
 const templateFooter = document.getElementById('template-footer').content
 const templateCart = document.getElementById('template-carrito').content
@@ -86,7 +87,17 @@ const drawCart = () => {
     pintarFooter()
 
     localStorage.setItem('cart', JSON.stringify(cart))
+    getProductslength()
 }
+
+const getProductslength = ()=> {
+    const items = localStorage.getItem('cart')
+    const itemsJsonToObject = JSON.parse(items)
+   console.log("items:", itemsJsonToObject)
+    
+    productCount.querySelector('span').textContent = Object.keys(itemsJsonToObject).length
+}
+
 
 const pintarFooter = () => {
     footer.innerHTML = ''
